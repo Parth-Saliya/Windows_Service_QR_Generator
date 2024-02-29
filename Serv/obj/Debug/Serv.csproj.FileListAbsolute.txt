@@ -1,0 +1,10 @@
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\bin\Debug\Serv.exe.config
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\bin\Debug\Serv.exe
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\bin\Debug\Serv.pdb
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\obj\Debug\Serv.Form1.resources
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\obj\Debug\Serv.Properties.Resources.resources
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\obj\Debug\Serv.csproj.GenerateResource.Cache
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\obj\Debug\Serv.exe
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\obj\Debug\Serv.pdb
+c:\users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\brijesh\documents\visual studio 2015\Projects\Serv\Serv\obj\Debug\Serv.csprojResolveAssemblyReference.cache

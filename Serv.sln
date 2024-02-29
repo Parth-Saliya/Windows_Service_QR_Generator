@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serv", "Serv\Serv.csproj", "{78947B67-57D2-430F-84C0-8373F676C12C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QR", "QR\QR.vdproj", "{77CFD9A6-3AC2-451B-9B2B-D31CEBAADE2A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QR_Connect", "QR_Connect\QR_Connect.vdproj", "{65FCD283-7DF7-44A5-864A-1A20ABCA4835}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QRConnect", "QRConnect\QRConnect.vdproj", "{90F425D6-8F76-4EB0-B046-0003A814EC2A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{6C4A6299-E547-4558-9FD4-7D09A850CAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78947B67-57D2-430F-84C0-8373F676C12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78947B67-57D2-430F-84C0-8373F676C12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78947B67-57D2-430F-84C0-8373F676C12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78947B67-57D2-430F-84C0-8373F676C12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CFD9A6-3AC2-451B-9B2B-D31CEBAADE2A}.Debug|Any CPU.ActiveCfg = Debug
+		{77CFD9A6-3AC2-451B-9B2B-D31CEBAADE2A}.Release|Any CPU.ActiveCfg = Release
+		{65FCD283-7DF7-44A5-864A-1A20ABCA4835}.Debug|Any CPU.ActiveCfg = Debug
+		{65FCD283-7DF7-44A5-864A-1A20ABCA4835}.Release|Any CPU.ActiveCfg = Release
+		{90F425D6-8F76-4EB0-B046-0003A814EC2A}.Debug|Any CPU.ActiveCfg = Debug
+		{90F425D6-8F76-4EB0-B046-0003A814EC2A}.Release|Any CPU.ActiveCfg = Release
+		{6C4A6299-E547-4558-9FD4-7D09A850CAED}.Debug|Any CPU.ActiveCfg = Debug
+		{6C4A6299-E547-4558-9FD4-7D09A850CAED}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
